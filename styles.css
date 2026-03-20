@@ -4,10 +4,10 @@
 }
 
 ul {
-  display: flex;
   list-style: none;
 }
 
 li {
+  display: inline;
   margin-right: 1rem;
 }
